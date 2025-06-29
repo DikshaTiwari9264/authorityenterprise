@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="max-full mx-auto px-4 sm:px-6 lg:px-8">
         {/* Main Footer Content */}
         <div className="py-12 lg:py-16">
-          {/* Desktop Layout */}
+          
           <div className="hidden lg:block">
             <div className="grid grid-cols-12 gap-8 items-start">
               {/* Logo and Newsletter - Left Side */}
